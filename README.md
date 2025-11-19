@@ -71,7 +71,7 @@ npm start
 
 ### 5️⃣ Open in browser
 ```
-http://localhost:5173      # For Vite/React
+http://localhost:5173           # For Vite/React
 http://localhost:3000 or 5000   # For Node/Express
 ```
 
@@ -79,9 +79,8 @@ http://localhost:3000 or 5000   # For Node/Express
 
 ## 🔗 Live Links & Other Relevant Links
 
-- 🌐 **Live Website:** https://your-live-link.com  
+- 🌐 **Live Website:** https://boi-poka135.netlify.app/
 - 🖥️ **Client Repository:** https://github.com/your-username/client  
-- 🛠️ **Server Repository:** https://github.com/your-username/server  
-- 📦 **API Documentation:** https://your-api-docs.com  
+
 
 
