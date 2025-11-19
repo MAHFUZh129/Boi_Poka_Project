@@ -43,7 +43,7 @@ Follow the steps below to run the project on your local machine:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/MAHFUZh129/Boi_Poka_Project.git
 ```
 
 ### 2️⃣ Go to the project directory
