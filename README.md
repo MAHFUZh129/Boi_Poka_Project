@@ -27,14 +27,13 @@ The aim of the platform is to give farmers, suppliers, and buyers an easy and se
 ---
 
 ## 📦 Dependencies
-"dependencies": {
-  "axios": "^1.6.7",
-  "react": "^18.2.0",
-  "react-dom": "^18.2.0",
-  "react-router-dom": "^6.20.1",
-  "firebase": "^10.7.1",
-  "tailwindcss": "^3.3.5",
-  "daisyui": "^4.4.0",
-  "react-hot-toast": "^2.4.1"
-}
+
+- **React — ^18.x.x**
+- **React DOM — ^18.x.x**
+- **React Router DOM — ^6.x.x**
+- **Axios — ^1.x.x**
+- **Firebase — ^10.x.x**
+- **Tailwind CSS — ^3.x.x**
+- **DaisyUI — ^4.x.x**
+- **React Hot Toast — ^2.x.x**
 
