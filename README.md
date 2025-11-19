@@ -31,8 +31,6 @@ The aim of the platform is to give farmers, suppliers, and buyers an easy and se
 - **React — ^18.x.x**
 - **React DOM — ^18.x.x**
 - **React Router DOM — ^6.x.x**
-- **Axios — ^1.x.x**
-- **Firebase — ^10.x.x**
 - **Tailwind CSS — ^3.x.x**
 - **DaisyUI — ^4.x.x**
 - **React Hot Toast — ^2.x.x**
@@ -80,7 +78,7 @@ http://localhost:3000 or 5000   # For Node/Express
 ## 🔗 Live Links & Other Relevant Links
 
 - 🌐 **Live Website:** https://boi-poka135.netlify.app/
-- 🖥️ **Client Repository:** https://github.com/your-username/client  
+- 🖥️ **Client Repository:** https://github.com/MAHFUZh129/Boi_Poka_Project.git
 
 
 
